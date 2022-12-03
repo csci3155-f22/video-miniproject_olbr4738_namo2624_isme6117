@@ -3,11 +3,11 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# LibGDX Game Tutorial
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+libGDX is a java game development framework that allows for making Windows, Linux, macOS, Android, and iOS. This repository includes a short tutorial on how to create a simple game on libGDX and what applications the process and coding has to CSCI 3155.
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
