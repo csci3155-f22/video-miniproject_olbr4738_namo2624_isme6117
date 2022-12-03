@@ -7,7 +7,10 @@ See [instructions.md](instructions.md) for submission instructions.
 
 ## Description
 
-libGDX is a java game development framework that allows for making Windows, Linux, macOS, Android, and iOS. This repository includes a short tutorial on how to create a simple game on libGDX and what applications the process and coding has to CSCI 3155.
+libGDX is a java game development framework that allows for making Windows, Linux, macOS, Android, and iOS. This repository includes a short tutorial on how to create a simple game on libGDX and what applications the process and coding has to CSCI 3155. 
+
+We go through the process of installing libGDX, creating a project, and writing a very simple game. We have provided assets and sample code for our game so that anyone should be able to get it running. The game's concept is very straightforward; you move a bucket to catch falling water droplets on the screen. This basic game involves an important programming language concept: memory allocation (and deallocation). As part of our lab 5 assignment, we spent a lot of time on correctly handling memory in our interpreter, and in programming this game we must also correctly extend our memory with the right objects. Our game also includes an extension of that idea, deallocating and garbage collection. 
+
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
