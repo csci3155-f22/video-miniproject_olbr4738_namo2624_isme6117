@@ -46,9 +46,6 @@ Step 7: Go to our project resources, and copy and paste our example game code in
 
 ## Presentation
 
-TODO: Update the following links and remove this line.
-
-- YouTube: https://youtu.be/TODO.
+- YouTube: https://youtu.be/N-xD24FUSMU.
 - Script: [script.md](script.md) or [script.pdf](script.pdf).
 - Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
