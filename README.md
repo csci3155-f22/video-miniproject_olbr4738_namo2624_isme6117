@@ -14,9 +14,13 @@ We go through the process of installing libGDX, creating a project, and writing 
 ## Repository Organization
 
 Resources - code and assets necessary for the game
+
 [README.md](README.md) - description of the project, organization, instructions, and youtube link
+
 [instructions.md](instructions.md) - submission instructions
+
 [recording.mp4](recording.mp4) - video recording of the project
+
 [script.md](script.md) - video script
 
 ## Building and Testing Instructions
