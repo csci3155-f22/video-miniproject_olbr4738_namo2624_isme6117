@@ -13,7 +13,11 @@ We go through the process of installing libGDX, creating a project, and writing 
 
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+Resources - code and assets necessary for the game
+[README.md](README.md) - description of the project, organization, instructions, and youtube link
+[instructions.md](instructions.md) - submission instructions
+[recording.mp4](recording.mp4) - video recording of the project
+[script.md](script.md) - video script
 
 ## Building and Testing Instructions
 
@@ -47,5 +51,5 @@ Step 7: Go to our project resources, and copy and paste our example game code in
 ## Presentation
 
 - YouTube: https://youtu.be/N-xD24FUSMU.
-- Script: [script.md](script.md) or [script.pdf](script.pdf).
+- Script: [script.md](script.md).
 - Recording: [recording.mp4](recording.mp4).
